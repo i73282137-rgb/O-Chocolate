@@ -1,0 +1,19 @@
+# Oba Chocolate
+
+> Atelier de chocolates artesanais desde 2015.
+
+O site apresenta a coleção da Oba Chocolate e permite que visitantes escolham produtos, sabores e formatos antes de continuar o pedido pelo WhatsApp.
+
+## Coleção
+- Palhas italianas e palha italiana cremosa
+- Brigadeiros, bombons, trufas e lascas de chocolate
+- Linha Fit & Vegana
+- Caixas de luxo e gifts
+- Estações, carrinho para eventos e assinaturas Oba
+
+## Contato público
+- WhatsApp/telefone: +55 21 99929-7818
+- Instagram: https://www.instagram.com/obachocolate/
+
+## Página principal
+- URL canônica: https://i73282137-rgb.github.io/O-Chocolate/ (substituir pelo domínio definitivo antes da publicação)

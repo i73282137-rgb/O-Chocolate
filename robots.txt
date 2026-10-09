@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://i73282137-rgb.github.io/O-Chocolate/sitemap.xml
