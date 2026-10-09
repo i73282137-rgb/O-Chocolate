@@ -1,0 +1,1 @@
+document.documentElement.classList.add('js');if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!location.hash){document.documentElement.classList.add('intro-pending');window.obaIntroFailsafe=setTimeout(()=>{document.documentElement.classList.remove('intro-pending');document.querySelectorAll('[data-page]').forEach(e=>e.inert=false)},8500)}
