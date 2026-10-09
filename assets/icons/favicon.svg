@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Oba Chocolate">
+  <rect width="64" height="64" rx="32" fill="#13251e"/>
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#d5dfb5" stroke-width="2"/>
+  <text x="31" y="46" text-anchor="middle" fill="#eff0e5" font-family="Georgia,serif" font-size="45">o</text>
+</svg>
